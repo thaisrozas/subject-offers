@@ -62,7 +62,7 @@ total_countcarousel = data_countcarousel.shape[0]  # Total de linhas no segundo 
 
 # Criando um DataFrame com os totais
 total_data = pd.DataFrame({
-    'Tipos': ['Com Carrossel', 'Sem Carrossel'],
+    'Tipos': ['Sem Carrossel', 'Com Carrossel'],
     'Total': [total_countall, total_countcarousel]
 })
 

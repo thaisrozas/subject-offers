@@ -1,133 +1,86 @@
-Disciplinas,Quantidade
-F052,Desafios do Ciberespaço
-F054,Fundamento de Internet das Coisas
-F055,Inovação em Soluções Computacionais
-F057,Estatísticas e Processamento de Dados
-F059,Modelagem Matemática
-F090,Ideação para Soluções Computacionais
-G369,Gestão Estratégica de Pessoas
-G370,Contabilidade Intermediária
-G371,Supply Chain e Liderança Logística
-G372,Legislação Fiscal Trabalhista e Previdenciária
-G373,Contabilidade Avançada
-G375,Finanças e Orçamento Público
-G376,Gestão de Tributos Federais
-G377,Sistemas Inteligentes de Apoio a Decisão
-G378,Prática Contábil
-G379,Mentoria
-G380,Teoria da Contabilidade
-G381,Prática Tributária e Trabalhista
-G382,Contabilidade Aplicada ao Setor Público
-G383,Auditoria
-G384,Experiência em Contabilidade
-G385,Tópicos Avançados em Contabilidade
-G386,Perícia Contábil
-G387,Experiência em Contabilidade Geral Aplicada
-G388,Pesquisa em Contabilidade
-G389,Finanças Corporativas e Risco
-G390,Economia Estratégica
-G400,Economia da Inovação
-G401,Negociação Estratégica
-G402,Controladoria e Orçamento
-G403,Dinâmicas do Empreendedorismo
-G404,Direito Empresarial
-G405,Inteligência de Negócios
-G406,Inovação e Negócios Criativos
-G407,Matemática para Empreendedores
-G408,Administração e Organizações
-G409,Ética e Negócios
-G410,Contabilidade e Negócios
-G411,Cenário Econômicos e Empresariais
-G412,Gestão Processos de Negócios
-G413,Matemática Financeira
-G414,Estrutura e Análise de Demonstrações Contábeis
-G415,Sistema de Informações
-G416,Custos e Formação de Preços
-G417,Mercado de Capitais no Contexto Global
-G418,Análise Descritiva de Dados
-G419,Estratégia Empresarial
-G420,Avaliação Financeira de Empresas e Projetos
-G421,Auditoria Financeira
-G422,Valuation
-G423,Gestão Capital de Giro
-G427,Marketing Digital
-G428,Contabilidade Geral Aplicada
-G429,Gestão de Operações
-G430,Gestão Tributária
-G431,Big Data em Negócios
-G432,Análise Multivariada de Dados
-G433,Ecossistemas de Governança
-G434,Compliance e Gestão de Risco
-G435,Gestão de Mídias Digitais
-G436,Design e Processos Gráficos
-G437,Branding
-G438,Mercado e Consumidor
-G439,Comunicação e Inovação
-G440,Marketing Contemporâneo
-G441,Marketing de Conteúdo
-G442,Gestão de Produtos
-G443,Métricas de Marketing
-G444,Omnichannel e Trade Marketing
-G445,Ciências de Dados Aplicado à Gestão
-G446,Antropologia do Consumo e Neuromarketing
-G447,Marketing de Relacionamento
-G448,Gestão de Projetos
-G449,Gestão de Vendas
-G450,Pesquisa Operacional Aplicada a Gestão
-G451,Processos e Estruturas da Gestão de Pessoas
-G452,Liderança e Gestão
-G453,Experiência em Gestão
-G454,Capitalismo Consciente
-G455,Simulação Empresarial em Ambiente Internacional
-G456,Experiência em Gestão Aplicada
-G459,Consultoria em Gestão de Pessoas
-G701,Programação para Analítica de Negócios
-G702,Estrutura de Dados em Analítica
-G703,Técnicas de Integração de Sistemas
-G704,Visualização de Dados para Tomada de Decisões
-G705,Processos de Preparação de Dados
-G706,Análise de Dados não Estruturados em Gestão
-G707,Tópicos em Mineração e Inteligência Artificial
-G708,Storytelling de Dados
-G709,Inteligência Analítica de Negócios
-G741,"Pessoas, Times e Organizações"
-G743,"Inovação, Empreendedorismo e Ética"
-G744,Dinâmicas de Grupo e Trabalho em Equipe
-G745,Gestão de Carreira e Desenvolvimento
-G746,Métricas de Hibridização do Trabalho
-G747,Dados e Tomada de Decisão
-G755,Tendências no Varejo
-G757,Gestão de Estoques e Fornecedores
-G759,Legislação e Compliance em Logística
-G760,Gestão de Custos Logísticos
-G761,Logística Global e Comércio Exterior
-G762,Infraestrutura e Modais de Transporte
-G766,Tecnologia em Analítica de Negócios
-N679,Interação Humano Computador
-N680,Matemática para Computação
-N681,Desafios do Ciberespaço
-N682,Fundamentos de Sistemas Computacionais
-N683,Raciocínio Lógico e Algorítmico
-N684,Postura Profissional e Comunicação Interpessoal
-N685,Programação Orientada a Objetos
-N686,Ambientes de Desenvolvimento de Software
-N687,Experiência Empreendedora
-N688,Ambiente de Dados
-N689,Requisitos e Modelagem de Sistemas
-N690,Ética em Computação
-N691,Projeto e Arquitetura de Sistemas
-N692,Estrutura de Dados
-N693,Segurança em Projeto de Software
-N694,Técnicas de Programação Linux
-N695,Desenvolvimento para Plataforma Web
-N696,Inovação em Soluções Computacionais
-N697,Desenvolvimento de Software em Nuvem
-N698,Teste e Validação de Sistemas
-N699,Projeto Aplicado de Desenvolvimento de Software - Etapa 1
-N700,Desenvolvimento para Plataformas Móveis
-N701,Gerenciamento de Serviços para Ciberespaço
-N704,Programação Funcional
-N705,Projeto Aplicado Multiplataforma - Etapa 1
-N706,Gerenciamento da Implantação de Sistemas
-N707,Segurança no Ciberespaço
-N708,Projeto Aplicado Multiplataforma - Etapa 2
+Código,Disciplina,Quantidade
+F057,Estatísticas e Processamento de Dados,
+F059,Modelagem Matemática,
+F090,Ideação para Soluções Computacionais,
+G369,Gestão Estratégica de Pessoas,
+G370,Contabilidade Intermediária,
+G371,Supply Chain e Liderança Logística,
+G372,Legislação Fiscal Trabalhista e Previdenciária,
+G373,Contabilidade Avançada,
+G377,Sistemas Inteligentes de Apoio a Decisão,
+G378,Prática Contábil,
+G379,Mentoria,
+G380,Teoria da Contabilidade,
+G381,Prática Tributária e Trabalhista,
+G384,Experiência em Contabilidade,
+G385,Tópicos Avançados em Contabilidade,
+G386,Perícia Contábil,
+G387,Experiência em Contabilidade Geral Aplicada,
+G388,Pesquisa em Contabilidade,
+G401,Negociação Estratégica,
+G402,Controladoria e Orçamento,
+G404,Direito Empresarial,
+G405,Inteligência de Negócios,
+G410,Dados e Tomada de Decisão,
+G413,Matemática Financeira,
+G414,Estrutura e Análise de Demonstrações Contábeis,
+G416,Custos e Formação de Preços,
+G417,Mercado de Capitais no Contexto Global,
+G418,Análise Descritiva de Dados,
+G419,Estratégia Empresarial,
+G420,Avaliação Financeira de Empresas e Projetos,
+G421,Auditoria Financeira,
+G422,Valuation,
+G423,Gestão Capital de Giro,
+G427,Marketing Digital,
+G428,Contabilidade Geral Aplicada,
+G429,Gestão de Operações,
+G434,Compliance e Gestão de Risco,
+G435,Gestão de Mídias Digitais,
+G436,Design e Processos Gráficos,
+G438,Mercado e Consumidor,
+G440,Marketing Contemporâneo,
+G441,Marketing de Conteúdo,
+G442,Gestão de Produtos,
+G443,Métricas de Marketing,
+G444,Omnichannel e Trade Marketing,
+G445,Ciências de Dados Aplicado à Gestão,
+G446,Antropologia do Consumo e Neuromarketing,
+G447,Marketing de Relacionamento,
+G448,Gestão de Projetos,
+G449,Gestão de Vendas,
+G450,Pesquisa Operacional Aplicada a Gestão,
+G451,Processos e Estruturas da Gestão de Pessoas,
+G452,Liderança e Gestão,
+G453,Experiência em Gestão,
+G454,Capitalismo Consciente,
+G455,Simulação Empresarial em Ambiente Internacional,
+G456,Experiência em Gestão Aplicada,
+G459,Consultoria em Gestão de Pessoas,
+G701,Programação para Analítica de Negócios,
+G702,Estrutura de Dados em Analítica,
+G704,Visualização de Dados para Tomada de Decisões,
+G705,Processos de Preparação de Dados,
+G706,Análise de Dados não Estruturados em Gestão,
+G744,Dinâmicas de Grupo e Trabalho em Equipe,
+G745,Gestão de Carreira e Desenvolvimento,
+G746,Métricas de Hibridização do Trabalho,
+G747,Dados e Tomada de Decisão,
+G755,Tendências no Varejo,
+G760,Gestão de Custos Logísticos,
+G761,Logística Global e Comércio Exterior,
+G762,Infraestrutura e Modais de Transporte,
+N679,Interação Humano Computador,
+N680,Matemática para Computação,
+N682,Fundamentos de Sistemas Computacionais,
+N683,Raciocínio Lógico e Algorítmico,
+N685,Programação Orientada a Objetos,
+N688,Ambiente de Dados,
+N689,Requisitos e Modelagem de Sistemas,
+N692,Estrutura de Dados,
+N697,Desenvolvimento de Software em Nuvem,
+N698,Teste e Validação de Sistemas,
+N699,Projeto Aplicado de Desenvolvimento de Software - Etapa 1,
+N700,Desenvolvimento para Plataformas Móveis,
+N701,Gerenciamento de Serviços para Ciberespaço,
+Total,84,
