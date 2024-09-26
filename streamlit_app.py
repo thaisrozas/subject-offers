@@ -48,7 +48,7 @@ if st.button("Listar disciplinas sem oferta carrossel"):
 st.header("Com Carrossel")
 st.write("Isso significa que a oferta seria de de acordo com o carrossel projetado.")
 
-count_carousel20251 = './tables/carousel2025-1.csv'
+count_carousel20251 = './tables/count-carousel2025-1.csv'
 data_countcarousel = pd.read_csv(count_carousel20251)
 
 # Mostrar a tabela apenas quando o usuário clicar no botão
@@ -61,13 +61,13 @@ total_countcarousel = data_countcarousel.shape[0]  # Total de linhas no segundo 
 
 # Criando um DataFrame com os totais
 total_data = pd.DataFrame({
-    'Dataset': ['Sem Carrossel', 'Com Carrossel'],
+    'Tipos': ['Sem Carrossel', 'Com Carrossel'],
     'Total': [total_countall, total_countcarousel]
 })
 
 # Gerando o gráfico de barras usando Matplotlib e integrando com Streamlit
 fig, ax = plt.subplots(figsize=(8, 6))
-ax.bar(total_data['Dataset'], total_data['Total'], color=['lightblue', 'blue'])
+ax.bar(total_data['Tipos'], total_data['Total'], color=['lightblue', 'blue'])
 ax.set_xlabel('Tipo de Oferta')
 ax.set_ylabel('Quantidade de Disciplinas')
 ax.set_title('Quantidade de Disciplinas por Tipo de Oferta')
