@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
+import plotly.express as px
 
 st.title("Projeção da oferta dos cursos EaD: Com ou Sem Carrosel")
 
@@ -65,9 +66,20 @@ total_data = pd.DataFrame({
     'Total': [total_countall, total_countcarousel]
 })
 
-# Gerando o gráfico de barras usando Matplotlib e integrando com Streamlit
-fig, ax = plt.subplots(figsize=(8, 6))
-ax.bar(total_data['Tipos'], total_data['Total'], color=['lightblue', 'blue'])
+# Gerando o gráfico de barras usando Matplotlib
+fig, ax = plt.subplots(figsize=(8, 7))
+bars = ax.bar(total_data['Tipos'], total_data['Total'], color=['lightblue', 'blue'])
+
+# Adicionando o número total em cima de cada barra
+for bar in bars:
+    height = bar.get_height()
+    ax.annotate(f'{height}', 
+                xy=(bar.get_x() + bar.get_width() / 2, height),  # Coordenadas do texto
+                xytext=(0, 3),  # Deslocamento do texto
+                textcoords="offset points", 
+                ha='center', va='bottom')
+
+# Configurando os rótulos e o título do gráfico
 ax.set_xlabel('Tipo de Oferta')
 ax.set_ylabel('Quantidade de Disciplinas')
 ax.set_title('Quantidade de Disciplinas por Tipo de Oferta')
