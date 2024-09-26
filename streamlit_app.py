@@ -41,7 +41,7 @@ data_countall = pd.read_csv(countall20251)
 data_countall_cleaned = data_countall.drop(columns=['Quantidade'])
 
 # Mostrar a tabela apenas quando o usuário clicar no botão
-if st.button("Listar disciplinas sem ofertacarrossel"):
+if st.button("Listar disciplinas sem oferta carrossel"):
     st.dataframe(data_countall_cleaned)
 
 # Com carrossel
@@ -52,7 +52,7 @@ count_carousel20251 = './tables/carousel2025-1.csv'
 data_countcarousel = pd.read_csv(count_carousel20251)
 
 # Mostrar a tabela apenas quando o usuário clicar no botão
-if st.button("Listar disciplinas com ofertacarrossel"):
+if st.button("Listar disciplinas com oferta carrossel"):
     st.dataframe(data_countcarousel)
 
 # Contar o número total de ocorrências (linhas) em cada DataFrame
