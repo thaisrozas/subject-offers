@@ -1,0 +1,175 @@
+Código,Disciplina,Semestre,Trimestre,Curso,Matriz
+N682,Fundamentos de Sistemas Computacionais,1,A,Inteligência Artificial,Nova
+N680,Matemática para Computação,1,A,Inteligência Artificial,Nova
+N683,Raciocínio Lógico e Algorítmico,1,B,Inteligência Artificial,Nova
+N685,Programação Orientada a Objetos,1,B,Inteligência Artificial,Nova
+N692,Estrutura de Dados,3,A,Inteligência Artificial,Nova
+F057,Estatísticas e Processamento de Dados,3,A,Inteligência Artificial,Nova
+F059,Modelagem Matemática,3,A,Inteligência Artificial,Nova
+N688,Ambiente de Dados,3,B,Inteligência Artificial,Nova
+F090,Ideação para Soluções Computacionais,3,B,Inteligência Artificial,Nova
+N682,Fundamentos de Sistemas Computacionais,1,A,Análise e desenvolvimento de sistemas,Nova
+N680,Matemática para Computação,1,A,Análise e desenvolvimento de sistemas,Nova
+N683,Raciocínio Lógico e Algorítmico,1,B,Análise e desenvolvimento de sistemas,Nova
+N685,Programação Orientada a Objetos,1,B,Análise e desenvolvimento de sistemas,Nova
+N692,Estrutura de Dados,3,A,Análise e desenvolvimento de sistemas,Nova
+N679,Interação Humano Computador,3,A,Análise e desenvolvimento de sistemas,Nova
+N689,Requisitos e Modelagem de Sistemas,3,A,Análise e desenvolvimento de sistemas,Nova
+N688,Ambiente de Dados,3,B,Análise e desenvolvimento de sistemas,Nova
+F090,Ideação para Soluções Computacionais,3,B,Análise e desenvolvimento de sistemas,Nova
+G401,Negociação Estratégica,1,A,Inteligência de negócios,Nova
+G704,Visualização de Dados para Tomada de Decisões,1,A,Inteligência de negócios,Nova
+G427,Marketing Digital,1,B,Inteligência de negócios,Nova
+G405,Inteligência de Negócios,1,B,Inteligência de negócios,Nova
+G413,Matemática Financeira,3,A,Inteligência de negócios,Nova
+G429,Gestão de Operações,3,A,Inteligência de negócios,Nova
+G701,Programação para Analítica de Negócios,3,A,Inteligência de negócios,Nova
+G702,Estrutura de Dados em Analítica,3,B,Inteligência de negócios,Nova
+G747,Dados e Tomada de Decisão,3,B,Inteligência de negócios,Nova
+G401,Negociação Estratégica,1,A,Gestão comercial,Nova
+G416,Custos e Formação de Preços,1,A,Gestão comercial,Nova
+G371,Supply Chain e Liderança Logística,1,B,Gestão comercial,Nova
+G452,Liderança e Gestão,1,B,Gestão comercial,Nova
+G429,Gestão de Operações,3,A,Gestão comercial,Nova
+G413,Matemática Financeira,3,A,Gestão comercial,Nova
+G755,Tendências no Varejo,3,A,Gestão comercial,Nova
+G427,Marketing Digital,3,B,Gestão comercial,Nova
+G747,Dados e Tomada de Decisão,3,B,Gestão comercial,Nova
+G435,Gestão de Mídias Digitais,1,A,Marketing Digital,Nova
+G436,Design e Processos Gráficos,1,A,Marketing Digital,Nova
+G427,Marketing Digital,1,B,Marketing Digital,Nova
+G405,Inteligência de Negócios,1,B,Marketing Digital,Nova
+G401,Negociação Estratégica,3,A,Marketing Digital,Nova
+G441,Marketing de Conteúdo,3,A,Marketing Digital,Nova
+G416,Custos e Formação de Preços,3,A,Marketing Digital,Nova
+G440,Marketing Contemporâneo,3,B,Marketing Digital,Nova
+G747,Dados e Tomada de Decisão,3,B,Marketing Digital,Nova
+G414,Estrutura e Análise de Demonstrações Contábeis,1,A,Gestão Financeira,Nova
+G404,Direito Empresarial,1,A,Gestão Financeira,Nova
+G427,Marketing Digital,1,B,Gestão Financeira,Nova
+G405,Inteligência de Negócios,1,B,Gestão Financeira,Nova
+G417,Mercado de Capitais no Contexto Global,3,A,Gestão Financeira,Nova
+G413,Matemática Financeira,3,A,Gestão Financeira,Nova
+G416,Custos e Formação de Preços,3,A,Gestão Financeira,Nova
+G402,Controladoria e Orçamento,3,B,Gestão Financeira,Nova
+G747,Dados e Tomada de Decisão,3,B,Gestão Financeira,Nova
+G401,Negociação Estratégica,1,A,Ciências Contábeis,Nova
+G404,Direito Empresarial,1,A,Ciências Contábeis,Nova
+G427,Marketing Digital,1,B,Ciências Contábeis,Nova
+G405,Inteligência de Negócios,1,B,Ciências Contábeis,Nova
+G428,Contabilidade Geral Aplicada,3,A,Ciências Contábeis,Nova
+G413,Matemática Financeira,3,A,Ciências Contábeis,Nova
+G416,Custos e Formação de Preços,3,A,Ciências Contábeis,Nova
+G370,Contabilidade Intermediária,3,B,Ciências Contábeis,Nova
+G747,Dados e Tomada de Decisão,3,B,Ciências Contábeis,Nova
+G401,Negociação Estratégica,1,A,Administração,Nova
+G404,Direito Empresarial,1,A,Administração,Nova
+G427,Marketing Digital,1,B,Administração,Nova
+G405,Inteligência de Negócios,1,B,Administração,Nova
+G429,Gestão de Operações,3,A,Administração,Nova
+G413,Matemática Financeira,3,A,Administração,Nova
+G416,Custos e Formação de Preços,3,A,Administração,Nova
+G440,Marketing Contemporâneo,3,B,Administração,Nova
+G410,Dados e Tomada de Decisão,3,B,Administração,Nova
+G401,Negociação Estratégica,1,A,Logística,Nova
+G429,Gestão de Operações,1,A,Logística,Nova
+G371,Supply Chain e Liderança Logística,1,B,Logística,Nova
+G440,Marketing Contemporâneo,1,B,Logística,Nova
+G760,Gestão de Custos Logísticos,3,A,Logística,Nova
+G761,Logística Global e Comércio Exterior,3,A,Logística,Nova
+G762,Infraestrutura e Modais de Transporte,3,A,Logística,Nova
+G452,Liderança e Gestão,3,B,Logística,Nova
+G747,Dados e Tomada de Decisão,3,B,Logística,Nova
+G401,Negociação Estratégica,1,A,Recursos Humanos,Nova
+G451,Processos e Estruturas da Gestão de Pessoas,1,A,Recursos Humanos,Nova
+G452,Liderança e Gestão,1,B,Recursos Humanos,Nova
+G405,Inteligência de Negócios,1,B,Recursos Humanos,Nova
+G459,Consultoria em Gestão de Pessoas,3,A,Recursos Humanos,Nova
+G744,Dinâmicas de Grupo e Trabalho em Equipe,3,A,Recursos Humanos,Nova
+G745,Gestão de Carreira e Desenvolvimento,3,A,Recursos Humanos,Nova
+G746,Métricas de Hibridização do Trabalho,3,B,Recursos Humanos,Nova
+G747,Dados e Tomada de Decisão,3,B,Recursos Humanos,Nova
+G705,Processos de Preparação de Dados,4,A,Inteligência de negócios,Antiga
+G419,Estratégia Empresarial,4,A,Inteligência de negócios,Antiga
+G420,Avaliação Financeira de Empresas e Projetos,4,A,Inteligência de negócios,Antiga
+G434,Compliance e Gestão de Risco,4,B,Inteligência de negócios,Antiga
+G706,Análise de Dados não Estruturados em Gestão,4,B,Inteligência de negócios,Antiga
+G438,Mercado e Consumidor,4,B,Inteligência de negócios,Antiga
+G406,Inovação e Negócios Criativos,5,A,Inteligência de negócios,Antiga
+G707,Tópicos em Mineração e Inteligência Artificial,5,A,Inteligência de negócios,Antiga
+G709,Inteligência Analítica de Negócios,5,A,Inteligência de negócios,Antiga
+G708,Storytelling de Dados,5,B,Inteligência de negócios,Antiga
+G452,Liderança e Gestão,5,B,Inteligência de negócios,Antiga
+G427,Marketing Digital,5,B,Inteligência de negócios,Antiga
+G442,Gestão de Produtos,4,A,Marketing digital,Antiga
+G443,Métricas de Marketing,4,A,Marketing digital,Antiga
+G444,Omnichannel e Trade Marketing,4,A,Marketing digital,Antiga
+G445,Ciências de Dados Aplicado à Gestão,4,B,Marketing digital,Antiga
+G446,Antropologia do Consumo e Neuromarketing,4,B,Marketing digital,Antiga
+G447,Marketing de Relacionamento,4,B,Marketing digital,Antiga
+G418,Análise Descritiva de Dados,4,A,Gestão Financeira,Antiga
+G419,Estratégia Empresarial,4,A,Gestão Financeira,Antiga
+G420,Avaliação Financeira de Empresas e Projetos,4,A,Gestão Financeira,Antiga
+G421,Auditoria Financeira,4,B,Gestão Financeira,Antiga
+G422,Valuation,4,B,Gestão Financeira,Antiga
+G423,Gestão Capital de Giro,4,B,Gestão Financeira,Antiga
+G703,Técnicas de Integração de Sistemas,5,A,Análise e desenvolvimento de sistemas,Antiga
+N705,Projeto Aplicado Multiplataforma - Etapa 1,5,A,Análise e desenvolvimento de sistemas,Antiga
+N704,Programação Funcional,5,A,Análise e desenvolvimento de sistemas,Antiga
+N708,Projeto Aplicado Multiplataforma - Etapa 2,5,B,Análise e desenvolvimento de sistemas,Antiga
+N706,Gerenciamento da Implantação de Sistemas,5,B,Análise e desenvolvimento de sistemas,Antiga
+N707,Segurança no Ciberespaço,5,B,Análise e desenvolvimento de sistemas,Antiga
+N699,Projeto Aplicado de Desenvolvimento de Software - Etapa 1,4,A,Análise e desenvolvimento de sistemas,Antiga
+N697,Desenvolvimento de Software em Nuvem,4,A,Análise e desenvolvimento de sistemas,Antiga
+N698,Teste e Validação de Sistemas,4,A,Análise e desenvolvimento de sistemas,Antiga
+N699,Projeto Aplicado de Desenvolvimento de Software - Etapa 2,4,B,Análise e desenvolvimento de sistemas,Antiga
+N700,Desenvolvimento para Plataformas Móveis,4,B,Análise e desenvolvimento de sistemas,Antiga
+N701,Gerenciamento de Serviços para Ciberespaço,4,B,Análise e desenvolvimento de sistemas,Antiga
+G418,Análise Descritiva de Dados,4,A,Ciências Contábeis,Antiga
+G448,Gestão de Projetos,4,A,Ciências Contábeis,Antiga
+G420,Avaliação Financeira de Empresas e Projetos,4,A,Ciências Contábeis,Antiga
+G445,Ciências de Dados Aplicado à Gestão,4,B,Ciências Contábeis,Antiga
+G372,Legislação Fiscal Trabalhista e Previdenciária,4,B,Ciências Contábeis,Antiga
+G373,Contabilidade Avançada,4,B,Ciências Contábeis,Antiga
+G377,Sistemas Inteligentes de Apoio a Decisão,6,A,Ciências Contábeis,Antiga
+G419,Estratégia Empresarial,6,A,Ciências Contábeis,Antiga
+G378,Prática Contábil,6,A,Ciências Contábeis,Antiga
+G379,Mentoria,6,B,Ciências Contábeis,Antiga
+G380,Teoria da Contabilidade,6,B,Ciências Contábeis,Antiga
+G381,Prática Tributária e Trabalhista,6,B,Ciências Contábeis,Antiga
+G433,Ecossistemas de Governança,7,A,Ciências Contábeis,Antiga
+G383,Auditoria,7,A,Ciências Contábeis,Antiga
+G382,Contabilidade Aplicada ao Setor Público,7,A,Ciências Contábeis,Antiga
+G434,Compliance e Gestão de Risco,7,B,Ciências Contábeis,Antiga
+G402,Controladoria e Orçamento,7,B,Ciências Contábeis,Antiga
+G417,Mercado de Capitais no Contexto Global,7,B,Ciências Contábeis,Antiga
+G384,Experiência em Contabilidade,8,A,Ciências Contábeis,Antiga
+G385,Tópicos Avançados em Contabilidade,8,A,Ciências Contábeis,Antiga
+G386,Perícia Contábil,8,A,Ciências Contábeis,Antiga
+G387,Experiência em Contabilidade Geral Aplicada,8,B,Ciências Contábeis,Antiga
+G422,Valuation,8,B,Ciências Contábeis,Antiga
+G388,Pesquisa em Contabilidade,8,B,Ciências Contábeis,Antiga
+G418,Análise Descritiva de Dados,4,A,Administração,Antiga
+G448,Gestão de Projetos,4,A,Administração,Antiga
+G420,Avaliação Financeira de Empresas e Projetos,4,A,Administração,Antiga
+G445,Ciências de Dados Aplicado à Gestão,4,B,Administração,Antiga
+G438,Mercado e Consumidor,4,B,Administração,Antiga
+G369,Gestão Estratégica de Pessoas,4,B,Administração,Antiga
+G377,Sistemas Inteligentes de Apoio a Decisão,6,A,Administração,Antiga
+G419,Estratégia Empresarial,6,A,Administração,Antiga
+G449,Gestão de Vendas,6,A,Administração,Antiga
+G379,Mentoria,6,B,Administração,Antiga
+G446,Antropologia do Consumo e Neuromarketing,6,B,Administração,Antiga
+G450,Pesquisa Operacional Aplicada a Gestão,6,B,Administração,Antiga
+G433,Ecossistemas de Governança,7,A,Administração,Antiga
+G390,Economia Estratégica,7,A,Administração,Antiga
+G414,Estrutura e Análise de Demonstrações Contábeis,7,A,Administração,Antiga
+G434,Compliance e Gestão de Risco,7,B,Administração,Antiga
+G452,Liderança e Gestão,7,B,Administração,Antiga
+G417,Mercado de Capitais no Contexto Global,7,B,Administração,Antiga
+G453,Experiência em Gestão,8,A,Administração,Antiga
+G454,Capitalismo Consciente,8,A,Administração,Antiga
+G455,Simulação Empresarial em Ambiente Internacional,8,A,Administração,Antiga
+G456,Experiência em Gestão Aplicada,8,B,Administração,Antiga
+G422,Valuation,8,B,Administração,Antiga
+G423,Gestão Capital de Giro,8,B,Administração,Antiga
